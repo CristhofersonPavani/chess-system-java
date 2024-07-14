@@ -2,8 +2,8 @@ package boardgame;
 
 public class Position
 {
-	int row;
-	int collum;
+	private int row;
+	private int collum;
 	
 	public Position(int row, int collum)
 	{
